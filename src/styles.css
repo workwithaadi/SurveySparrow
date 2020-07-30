@@ -1,0 +1,68 @@
+.App {
+  font-family: Montserrat;
+  color: #fff;
+}
+#root {
+  margin: 50px;
+}
+body {
+  background: url(https://uc5526ab37bbe1a306f43f9c657d.previews.dropboxusercontent.com/p/thumb/AA3lxQLSB5pstcjPSy98Fqap9jJNUYGunQ-NDK4HYG7vQ7hy-7OScQjeBw69yhN59BKlJMJnYY27vJiy8cDfpYEcCEvb3cKuIGtdVUXfqfNdZKIEtkCCM_FM2zRggSmC9qKoXxrvli9QIyFTfzkmckVcBHnW1SjurduhXZ9RGYYsFqf7u1pdzNZ4sRC9_UXH-EUxdxl3c1v7SR9yoEGNKgvej2ydqyL3n74lKqro0Zl636r8PI_6XgH7vF3sv6Ce9eNEq1anzisvfIMfvNvxP2A_EWz_Ra3cXGDi30LczCUBGReSRwhsREjLThbOm7tWc7H68YBsbzXwQ-V3gWi-2w6bHYm1tX5qhaFwqmYWX0849v1NTcZwvFzOa5Rzgy3YV8_GQrtI-D_GaljikVLJaXT0RaxZyF_B4aSbt3_YSAzTQw/p.png?fv_content=true&size_mode=5);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #aeb7c7;
+}
+.logoText {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.menuItemContainer {
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+}
+.menuItem a {
+  color: #fff;
+}
+.menuItem {
+  padding: 0 16px;
+  font-weight: bold;
+}
+.menuItemLogin {
+  background-color: #fff;
+  padding: 0 10px;
+  border-radius: 14px;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: unset;
+  color: #000 !important;
+  text-shadow: -1px 1px #fff;
+}
+.headingText {
+  font-size: 60px;
+  margin-top: 90px;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+a.colorBlue {
+  color: blue !important;
+}
+.menuItemLogin:hover {
+  background-color: khaki;
+}
+.chatBot button {
+  background: url(https://ucd457337cf571b419d5bb3005b3.previews.dropboxusercontent.com/p/thumb/AA3my0wLLD44nFtNro_EdxkOXkYb7-IjHJAGzVYKjkLvmKMpNfgBJZsEnpTCGOj_NjgwkD4Fhu38lTr-uBK7BCStShj4LRZ0iLYiJHEbOdHNIb6SsVoCPm0SBrkNhb3-Z0hkuxtxh15PzPag9jV565y0WGA-3UBzSomC4YK9hQld5L0VmzN5QTiIegcGmCLaPiBwW6jgyaZBJ694AwPHBqmrfj4pnAPSrI7AARmkRWzK0RhnCJE9WAPzRfH5kk55kCkY62Rze42Zbdfrg99Yy5g05aeO2SQaQLqXUpduydEw6Mph0JeQuSj9IzmEjhzSutz8iQFccsFZe9m5WAbmtdW2GNR1hTzHuxuf6v6ugAtahV2zqXtT6kd06oVGw6Bcgzavr4-HcWV06xr5oiFcHeBLbv45B0Du32vjQ2m3gTWUAw/p.png?fv_content=true&size_mode=5);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff !important;
+  margin-bottom: 35px;
+}
+.chatBot img {
+  display: none;
+}
+.chatBot {
+  color: #000;
+}
